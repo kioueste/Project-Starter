@@ -1,8 +1,8 @@
 $(document).ready(function() {
 	
 	// Open external links in a new window or tab
-	$('a[rel$='external']').click(function(){
-		$(this).target = "_blank";
+	$('a[rel$=external]').click(function() {
+		$(this).attr('target', "_blank");
 	});
 	
 	// Fix PNG transparency in IE6

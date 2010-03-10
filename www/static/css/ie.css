@@ -10,10 +10,7 @@ hr {margin:-8px auto 11px;}
  ul li { text-indent: 0; margin-left: 0; }
  legend { margin-bottom: 1.6em; } /* IE form margin bug */
 sup, sub { font-size: 100%; } /* IE superscript & subscript bug */
- blockquote p, blockquote ul, blockquote ol, blockquote dl, blockquote pre, blockquote address, 
- blockquote table, blockquote form, blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5, blockquote h6 { margin-top: .8em; margin-bottom: .8em; } /* IE can't handle :first-child */
  input[type='submit'],  input[type='button'] { padding: 0; } /* IE 7 button fix */
  legend+* { margin-top: 0; } /* we already added legend margin */
 a abbr, a acronym { text-decoration: underline; } /* IE 7 bug */
-table.vtable {border: 1px solid #D8DAE0;}
 img { -ms-interpolation-mode: bicubic; }

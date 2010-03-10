@@ -1,0 +1,55 @@
+/* =========== */
+/* = =Header = */
+/* =========== */
+#header {
+	
+}
+	#logo {
+		font-size: 2em;
+	}
+	
+	#navlinks {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+		#navlinks li {
+			display: inline;
+			float: left;
+			margin: 0;
+			padding: 0;
+		}
+		#navlinks a {
+			display: inline;
+			float: left;
+			padding: 5px 15px;
+			text-decoration: none;
+			font-weight: bold;
+			
+		}
+
+
+/* ============ */
+/* = =Content = */
+/* ============ */
+#content {
+	
+}
+
+
+/* =========== */
+/* = =Footer = */
+/* =========== */
+#footer {
+	
+}
+	#footerlinks {
+		list-style-type: none;
+		margin: 0 auto;
+		padding: 0;
+		text-align: center;
+	}
+		#footerlinks li {
+			display: inline;
+			margin: 0 5px;
+		}

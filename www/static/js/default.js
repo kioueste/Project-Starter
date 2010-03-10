@@ -6,8 +6,8 @@ $(document).ready(function() {
 	});
 	
 	// Fix PNG transparency in IE6
-	if ($.browser.msie) {
-		DD_belatedPNG.fix('.png_bg');
+	if ($.browser.msie && $.browser.version == 6) {
+		DD_belatedPNG.fix('.png');
 	}
 
 });

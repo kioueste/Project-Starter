@@ -1,0 +1,12 @@
+### Eclipse / Textmate / Zend Framework project management files
+
+.buildpath
+.project
+.zfproject.xml
+.settings/*
+*.tmproj
+is.current
+
+### Mac OS temporary files
+.DS_Store
+._*

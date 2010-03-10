@@ -1,0 +1,10 @@
+/* ========= */
+/* = Utils = */
+/* ========= */
+.hr {
+	height: 1px;
+	overflow: hidden;
+	background: #ccc;
+	clear: both;
+	margin-bottom: 1em;
+}

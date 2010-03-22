@@ -16,6 +16,11 @@ body {
 /* Alternative typo */
 .alt { font-size: 1.4em; color: #454545; font-family: Georgia, 'Times new roman', Times, serif;}
 
+/* Text alignment */
+.aleft { text-align: left;}
+.acenter { text-align: center;}
+.aright { text-align: right;}
+
 /* =========== */
 /* = Headers = */
 /* =========== */

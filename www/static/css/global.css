@@ -8,3 +8,6 @@
 	clear: both;
 	margin-bottom: 1em;
 }
+
+.imgleft	{ float: left; margin-right: 1em; margin-bottom: 1em;}
+.imgright	{ float: left; margin-left: 1em; margin-bottom: 1em;}

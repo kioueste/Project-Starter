@@ -12,7 +12,6 @@ hr {margin:-8px auto 11px;}
  ul li { text-indent: 0; margin-left: 0; }
  legend { margin-bottom: 1.6em; } /* IE form margin bug */
 sup, sub { font-size: 100%; } /* IE superscript & subscript bug */
- input[type='submit'],  input[type='button'] { padding: 0; } /* IE 7 button fix */
  legend+* { margin-top: 0; } /* we already added legend margin */
 a abbr, a acronym { text-decoration: underline; } /* IE 7 bug */
 img { -ms-interpolation-mode: bicubic; }

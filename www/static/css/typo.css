@@ -84,6 +84,16 @@ h6, .h6 {
 	border: none;
 }
 
+/* Cool sup that doesn't mess with line height */
+sup {
+	bottom: 0.33em;
+	font-size: 10px !important;
+	font-weight: normal !important;
+	padding-left: 1px;
+	position: relative;
+	vertical-align: baseline;
+}
+
 /* =================================================== */
 /* = Paragraphs, Definition Lists, (Un)Ordered Lists = */
 /* =================================================== */

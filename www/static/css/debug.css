@@ -1,0 +1,7 @@
+/* =================================================== */
+/* = Use this stylesheet for debugging purposes only = */
+/* =================================================== */
+
+img:not([alt]) {
+	outline: 4px solid red !important;
+}

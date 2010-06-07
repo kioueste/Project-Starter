@@ -6,3 +6,32 @@ input[type=submit], label {
 	cursor: pointer;
 }
 
+label {
+	cursor: pointer;
+}
+
+/* ================================ */
+/* = Proper checkbox positionning = */
+/* ================================ */
+.check {
+	float: left;
+	position: relative;
+}
+	.check input {
+		position: absolute;
+		left: 0;
+		top: 1px;
+		margin: 0;
+		padding: 0;
+		line-height: 1;
+		width: 16px;
+		height: 16px;
+		display: block;
+	}
+	.check label {
+		margin: 0;
+		padding: 0;
+		float: left;
+		margin-left: 18px;
+		display: inline;
+	}

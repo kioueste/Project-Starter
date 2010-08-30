@@ -1,37 +1,37 @@
 input, textarea {
-	font: normal 12px/1 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font: normal 12px/1 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
 input[type=submit], label {
-	cursor: pointer;
+    cursor: pointer;
 }
 
 label {
-	cursor: pointer;
+    cursor: pointer;
 }
 
 /* ================================ */
 /* = Proper checkbox positionning = */
 /* ================================ */
 .check {
-	float: left;
-	position: relative;
+    float: left;
+    position: relative;
 }
-	.check input {
-		position: absolute;
-		left: 0;
-		top: 1px;
-		margin: 0;
-		padding: 0;
-		line-height: 1;
-		width: 16px;
-		height: 16px;
-		display: block;
-	}
-	.check label {
-		margin: 0;
-		padding: 0;
-		float: left;
-		margin-left: 18px;
-		display: inline;
-	}
+    .check input {
+        position: absolute;
+        left: 0;
+        top: 1px;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        width: 16px;
+        height: 16px;
+        display: block;
+    }
+    .check label {
+        margin: 0;
+        padding: 0;
+        float: left;
+        margin-left: 18px;
+        display: inline;
+    }

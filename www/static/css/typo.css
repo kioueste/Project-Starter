@@ -3,9 +3,9 @@
 /* ================================================== */
 
 body {
-	font: 12px/1.5 'Helvetica Neue', Arial, Helvetica, sans-serif;
-	color: #222;
-	text-shadow:rgba(0,0,0,0.01) 0 0 0;
+    font: 12px/1.5 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: #222;
+    text-shadow:rgba(0,0,0,0.01) 0 0 0;
 }
 
 /* Typo scaler */
@@ -31,72 +31,72 @@ body {
 h1 a, .h1 a,
 h1 a:hover, .h1 a:hover,
 h1, .h1 {
-	font: bold 24px/1 'Helvetica Neue', Arial, Helvetica, sans-serif; 
-	color: #555;
-	margin-bottom: 5px;
-	letter-spacing: 0;
-	border: none;
+    font: bold 24px/1 'Helvetica Neue', Arial, Helvetica, sans-serif; 
+    color: #555;
+    margin-bottom: 5px;
+    letter-spacing: 0;
+    border: none;
 }
 h1 strong, .h1 strong { color: #3E151C; font-weight: normal;}
 h2 a, .h2 a,
 h2 a:hover, .h2 a:hover,
 h2, .h2 {
-	font: bold 18px/22px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-	margin-bottom: 2px;
-	color: #555;
-	letter-spacing: -1px;
-	text-shadow: 0 1px 0 #FFFFFF;
+    font: bold 18px/22px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    margin-bottom: 2px;
+    color: #555;
+    letter-spacing: -1px;
+    text-shadow: 0 1px 0 #FFFFFF;
 }
 h3 a, .h3 a,
 h3 a:hover, .h3 a:hover,
 h3, .h3 { 
-	font: bold 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-	margin-bottom: .5em;
-	color: #555;
-	border: none;
-	letter-spacing: 0;
+    font: bold 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    margin-bottom: .5em;
+    color: #555;
+    border: none;
+    letter-spacing: 0;
 }
 h4 a, .h4 a,
 h4 a:hover, .h4 a:hover,
 h4, .h4 {
-	font: bold 12px/13px 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	margin-bottom: .5em;
-	border: none;
-	letter-spacing: 0;
-	color: #222;
+    font: bold 12px/13px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin-bottom: .5em;
+    border: none;
+    letter-spacing: 0;
+    color: #222;
 }
 h5 a, .h5 a,
 h5 a:hover, .h5 a:hover,
 h5, .h5 {
-	font: normal 15px/17px 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	margin-bottom: .5em;
-	color: #222;
-	letter-spacing: 0;
-	border: none;
+    font: normal 15px/17px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin-bottom: .5em;
+    color: #222;
+    letter-spacing: 0;
+    border: none;
 }
 h6 a, .h6 a,
 h6 a:hover, .h6 a:hover,
 h6, .h6 {
-	font: normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	margin-bottom: .5em;
-	color: #222;
-	letter-spacing: 0;
-	border: none;
+    font: normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin-bottom: .5em;
+    color: #222;
+    letter-spacing: 0;
+    border: none;
 }
 
 /* Cool sup that doesn't mess with line height */
 sup {
-	bottom: 0.33em;
-	font-size: 10px !important;
-	font-weight: normal !important;
-	padding-left: 1px;
-	position: relative;
-	vertical-align: baseline;
+    bottom: 0.33em;
+    font-size: 10px !important;
+    font-weight: normal !important;
+    padding-left: 1px;
+    position: relative;
+    vertical-align: baseline;
 }
 
 /* =================================================== */
 /* = Paragraphs, Definition Lists, (Un)Ordered Lists = */
 /* =================================================== */
 p {
-	margin-bottom: 1em;
+    margin-bottom: 1em;
 }

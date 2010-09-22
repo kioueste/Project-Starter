@@ -1,3 +1,8 @@
+# Demo
+
+http://www.lunaweb.fr/labs/project_starter/www/
+[take a look at the sourcecode here](http://github.com/Kaelig/Project-Starter/blob/master/www/index.html)
+
 ## Project Starter is...
 
 * A really simple way to start a xHTML/CSS/jQuery project with

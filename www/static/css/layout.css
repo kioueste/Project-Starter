@@ -5,25 +5,25 @@
 /* =========== */
 /* = =Header = */
 /* =========== */
-#header {
+.head {
     
 }
     #logo {
         font-size: 2em;
     }
     
-    #navlinks {
+    .navLinks {
         list-style-type: none;
         margin: 0;
         padding: 0;
     }
-        #navlinks li {
+        .navLinks li {
             display: inline;
             float: left;
             margin: 0;
             padding: 0;
         }
-        #navlinks a {
+        .navLinks a {
             display: inline;
             float: left;
             padding: 5px 15px;
@@ -35,7 +35,7 @@
 /* ============ */
 /* = =Content = */
 /* ============ */
-#content {
+.mainContent {
     
 }
 
@@ -43,16 +43,6 @@
 /* =========== */
 /* = =Footer = */
 /* =========== */
-#footer {
+.foot {
     
 }
-    #footerlinks {
-        list-style-type: none;
-        margin: 0 auto;
-        padding: 0;
-        text-align: center;
-    }
-        #footerlinks li {
-            display: inline;
-            margin: 0 5px;
-        }

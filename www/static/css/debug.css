@@ -5,3 +5,9 @@
 img:not([alt]) {
     outline: 4px solid red !important;
 }
+
+div { border: 1px solid red !important;}
+div div { border: 1px solid green !important;}
+div div div { border: 1px solid blue !important;}
+div div div div { border: 2px dotted brown !important;}
+div div div div div { border: 2px dotted magenta !important;}

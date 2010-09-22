@@ -1,6 +1,7 @@
 # Demo
 
-http://www.lunaweb.fr/labs/project_starter/www/
+[Demonstration page](http://www.lunaweb.fr/labs/project_starter/www/)
+
 [take a look at the sourcecode here](http://github.com/Kaelig/Project-Starter/blob/master/www/index.html)
 
 ## Project Starter is...

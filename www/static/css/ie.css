@@ -1,13 +1,13 @@
 /* ================================ */
 /* = Tweaks for Internet Explorer = */
 /* ================================ */
-* html legend {margin:-18px -8px 16px 0;padding:0;}
+* html legend {margin:-18px -8px 16px 0;padding:0; }
 
-ol {margin-left:1.5em;}
-sup {vertical-align:text-top;}
-sub {vertical-align:text-bottom;}
-html>body p code {*white-space:normal;}
-hr {margin:-8px auto 11px;}
+ol {margin-left:1.5em; }
+sup {vertical-align:text-top; }
+sub {vertical-align:text-bottom; }
+html>body p code {*white-space:normal; }
+hr {margin:-8px auto 11px; }
  ul { list-style: disc outside; margin-left: 1.5em; } /* IE can't handle :before and :after */
  ul li { text-indent: 0; margin-left: 0; }
  legend { margin-bottom: 1.6em; } /* IE form margin bug */

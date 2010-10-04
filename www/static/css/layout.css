@@ -6,15 +6,18 @@
 /* = =Header = */
 /* =========== */
 .head {
-    
+    padding-top: 1em;
+    height: 8em;
 }
     #logo {
         font-size: 2em;
+        line-height: 1;
     }
     
     .navLinks {
         list-style-type: none;
         margin: 0;
+        overflow: hidden;
         padding: 0;
     }
         .navLinks li {
@@ -26,7 +29,7 @@
         .navLinks a {
             display: inline;
             float: left;
-            padding: 5px 15px;
+            padding: 1em;
             text-decoration: none;
             font-weight: bold;
         }

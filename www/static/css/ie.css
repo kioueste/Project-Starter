@@ -8,7 +8,7 @@ sup {vertical-align:text-top; }
 sub {vertical-align:text-bottom; }
 html>body p code {*white-space:normal; }
 hr {margin:-8px auto 11px; }
- ul { list-style: disc outside; margin-left: 1.5em; } /* IE can't handle :before and :after */
+ ul { list-style: disc outside; margin-left: 1.8em; } /* IE can't handle :before and :after */
  ul li { text-indent: 0; margin-left: 0; }
  legend { margin-bottom: 1.6em; } /* IE form margin bug */
 sup, sub { font-size: 100%; } /* IE superscript & subscript bug */

@@ -4,10 +4,5 @@ $(document).ready(function() {
     $('a[rel$=external]').live('click', function() {
         $(this).attr('target', "_blank");
     });
-    
-    // Fix PNG transparency in IE6
-    if ($.browser.msie && $.browser.version == 6) {
-        DD_belatedPNG.fix('.png');
-    }
 
 });

@@ -5,10 +5,11 @@
 
 html>body p code {*white-space:normal; }
 hr {margin:-8px auto 11px; }
- ul { list-style: disc outside; } /* IE can't handle :before and :after */
- ul li { text-indent: 0; margin-left: 0; }
- legend { margin-bottom: 1.6em; } /* IE form margin bug */
+ul { list-style: disc outside; }
+    ul li { text-indent: 0; margin-left: 0; }
+legend { margin-bottom: 1.6em; } /* IE form margin bug */
 sup, sub { font-size: 100%; } /* IE superscript & subscript bug */
- legend+* { margin-top: 0; } /* we already added legend margin */
+legend+* { margin-top: 0; } /* we already added legend margin */
 a abbr, a acronym { text-decoration: underline; } /* IE 7 bug */
-img { -ms-interpolation-mode: bicubic; }
+
+img { -ms-interpolation-mode: bicubic; } /* Better image smoothing in IE7 */

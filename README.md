@@ -19,3 +19,5 @@
 
 * index.html : meta, header, footer, content & sidebar + examples
 * static/ : images, javascript and css
+
+A very amazing project
